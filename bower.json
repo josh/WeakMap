@@ -1,6 +1,7 @@
 {
   "name": "WeakMap",
   "main": "WeakMap.js",
+  "version": "0.2.0",
   "homepage": "https://github.com/Polymer/WeakMap",
   "authors": [
     "The Polymer Authors"
@@ -10,7 +11,6 @@
     "weakmap"
   ],
   "license": "BSD",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
